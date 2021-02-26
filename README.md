@@ -1,7 +1,10 @@
+## Hellxz
+
 ### Hi there 👋
 
-<!--
-**hellxz/hellxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/hellxz">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hellxz&show_icons=true" />
+</a>
 
 Here are some ideas to get you started:
 
@@ -13,14 +16,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<a href="https://github.com/hellxz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hellxz&show_icons=true" />
-</a>
+
+<!--
 <a href="https://github.com/hellxz">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellxz" />
 </a>
+-->
 
 
 ## Skills
