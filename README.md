@@ -1,10 +1,8 @@
-## Hellxz
+# Hi 👋 here is Hellxz
 
 <a href="https://github.com/hellxz">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hellxz&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true" />
 </a>
-
-### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -22,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Skills
+## My Skills
 
 ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
