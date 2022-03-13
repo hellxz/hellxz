@@ -4,8 +4,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hellxz&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true" />
 </a>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Java & DevOps
 - 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me: sending email to hellxz001@foxmail.com
